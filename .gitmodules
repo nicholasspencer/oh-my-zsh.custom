@@ -1,0 +1,7 @@
+[submodule "zsh-completions"]
+path = plugins/zsh-completions
+url = git@github.com:zsh-users/zsh-completions.git
+
+[submodule "powerlevel9k"]
+path = themes/powerlevel9k
+url = git@github.com:bhilburn/powerlevel9k.git
